@@ -3,7 +3,7 @@ public class SelectionSort {
          for(int i=0;i<len;i++){
             int minidx = i;
             for(int j=i+1;j<len;j++){
-                if(arr[i]<minidx){
+                if(arr[j]<arr[minidx]){
                     minidx=j;
                 }
             }

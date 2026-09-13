@@ -3,6 +3,8 @@ oracleJdk-26/
 
 # Java compiled files
 *.class
+# c compiled files
+*.exe
 
 # Build folders
 bin/

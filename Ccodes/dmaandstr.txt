@@ -1,0 +1,10 @@
+malloc -> create a new memory with garbage value 
+calloc -> creates a new memory garbage value exist but reinitalized with 0
+(faster is malloc than calloc)
+if size provided is greater than that means heap doesnot have that much memory that means memory wont be created and add wont be 
+stored than means add is null
+realloc -> reinitalize existing memory
+free -> space free/empty
+
+
+
